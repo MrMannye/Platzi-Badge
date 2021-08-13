@@ -1,0 +1,23 @@
+.not{
+    background-color: black;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.not__image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+.not__image img{
+    width: 500px;
+    height: 500px;
+    margin: auto auto;
+}

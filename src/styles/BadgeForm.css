@@ -1,0 +1,16 @@
+button[type="button"]{
+    margin-top: 1.5rem ;
+    width: 30%;
+}
+
+
+.badgeform{
+    background-color: aliceblue;
+    margin-top: -5rem;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.form-group{
+    margin-bottom: 0.7rem;
+}
